@@ -8,6 +8,7 @@ Recently,  a  large  number  of  researchers  have  beenemploying  machine  lear
 | Algorithms    | Metrics       |
 | ------------- | ------------- |
 |               | RE | ME | MAD |
+|               | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
