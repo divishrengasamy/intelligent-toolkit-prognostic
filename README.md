@@ -5,9 +5,10 @@ Recently,  a  large  number  of  researchers  have  beenemploying  machine  lear
 # Supplementary Results
 
 ## FD002
-|Algorightms| Metrics |
-|           |         |
-|-----------|---------|
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ## FD003
 
