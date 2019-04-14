@@ -5,8 +5,9 @@ Recently,  a  large  number  of  researchers  have  beenemploying  machine  lear
 # Supplementary Results
 
 ## FD002
-| First Header  | Second Header |
+| Algorithms    | Metrics       |
 | ------------- | ------------- |
+|               | RE | ME | MAD |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
