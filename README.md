@@ -5,13 +5,52 @@ Recently,  a  large  number  of  researchers  have  beenemploying  machine  lear
 # Supplementary Results
 
 ## FD002
-| Algorithms    | Metrics       |
-| ------------- | ------------- |
-|               | RE | ME | MAD |
-|               | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
+|-------------|----|----|-----|----|------|------------|-----|------|-----|-----------|-------------------|------------------|
+| SGD         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Extra Trees |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| AdaBoost    |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Bagging     |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| RF          |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| SVR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GBR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| KNN         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| MLP         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GRU         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN2D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN1D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| LSTM        |    |    |     |    |      |            |     |      |     |           |                   |                  |
 
 ## FD003
+| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
+|-------------|----|----|-----|----|------|------------|-----|------|-----|-----------|-------------------|------------------|
+| SGD         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Extra Trees |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| AdaBoost    |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Bagging     |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| RF          |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| SVR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GBR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| KNN         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| MLP         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GRU         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN2D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN1D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| LSTM        |    |    |     |    |      |            |     |      |     |           |                   |                  |
 
 ## FD004
+| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
+|-------------|----|----|-----|----|------|------------|-----|------|-----|-----------|-------------------|------------------|
+| SGD         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Extra Trees |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| AdaBoost    |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Bagging     |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| RF          |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| SVR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GBR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| KNN         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| MLP         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| GRU         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN2D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| CNN1D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| LSTM        |    |    |     |    |      |            |     |      |     |           |                   |                  |
