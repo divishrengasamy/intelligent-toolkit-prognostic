@@ -5,7 +5,7 @@ Recently,  a  large  number  of  researchers  have  been employing  machine  lea
 # Supplementary Results
 
 ## FD002
-| Algorithms  | RE    | ME  | MAD | AE     | MdAE | Timeliness | MAE | RMSE | R^2  | sMAPE (%) | Training Time (s) | Testing Time (s) |
+| Algorithms  | RE    | ME  | MAD | AE     | MdAE | Timeliness | MAE | RMSE | R²   | sMAPE (%) | Training Time (s) | Testing Time (s) |
 |-------------|-------|-----|-----|--------|------|------------|-----|------|------|-----------|-------------------|------------------|
 | SGD         | 482.9 | 43.2|33.2 | 11199.7|39.4  | 63165.7    | 43.2| 51.7 | 0.073| 59.6      |   0.064           |                  |
 | Extra Trees | 88.6  | 20.1|19.3 | 5206.9 |13.2  | 18998.1    | 20.1| 27.4 | 0.738| 27.9      |   58.6            |                  |
@@ -22,7 +22,7 @@ Recently,  a  large  number  of  researchers  have  been employing  machine  lea
 | LSTM        |       |     |     |        |      |            |     |      |     |            |                   |                  |
 
 ## FD003
-| Algorithms  | RE | ME | MAD | AE     | MdAE | Timeliness | MAE | RMSE | R^2  | sMAPE (%) | Training Time (s) | Testing Time (s) |
+| Algorithms  | RE | ME | MAD | AE     | MdAE | Timeliness | MAE | RMSE | R²   | sMAPE (%) | Training Time (s) | Testing Time (s) |
 |-------------|----|----|-----|--------|------|------------|-----|------|------|-----------|-------------------|------------------|
 | SGD         |91.7|37.8| 30.9| 3780.7 |35.9  | 2.9569e+04 |37.8 | 45.2 |-0.195| 55.6      |  0.137            |   0.002               |
 | Extra Trees |41.2|29.4| 25.5| 2945.2 |16.3  | 6.1131e+04 | 29.4| 41.8 |-0.020| 31.3      |  6.763            |   0.044               |
@@ -39,7 +39,7 @@ Recently,  a  large  number  of  researchers  have  been employing  machine  lea
 | LSTM        |    |    |     |        |      |            |     |      |      |           |                   |                       |
 
 ## FD004
-| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
+| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R² | sMAPE (%) | Training Time (s) | Testing Time (s) |
 |-------------|----|----|-----|----|------|------------|-----|------|-----|-----------|-------------------|------------------|
 | SGD         |    |    |     |    |      |            |     |      |     |           |                   |                  |
 | Extra Trees |    |    |     |    |      |            |     |      |     |           |                   |                  |
