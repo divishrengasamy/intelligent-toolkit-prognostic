@@ -5,16 +5,16 @@ Recently,  a  large  number  of  researchers  have  been employing  machine  lea
 # Supplementary Results
 
 ## FD002
-| Algorithms  | RE | ME | MAD | AE | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
-|-------------|----|----|-----|----|------|------------|-----|------|-----|-----------|-------------------|------------------|
-| SGD         |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| Extra Trees |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| AdaBoost    |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| Bagging     |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| RF          |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| SVR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| GBR         |    |    |     |    |      |            |     |      |     |           |                   |                  |
-| KNN         |    |    |     |    |      |            |     |      |     |           |                   |                  |
+| Algorithms  | RE | ME | MAD | AE     | MdAE | Timeliness | MAE | RMSE | R^2 | sMAPE (%) | Training Time (s) | Testing Time (s) |
+|-------------|----|----|-----|--------|------|------------|-----|------|-----|-----------|-------------------|------------------|
+| SGD         |    |    |     | 11199.7|      | 63165.7    |     | 51.7 |     |           |                   |                  |
+| Extra Trees |    |    |     |    |      | 18998.1    |     | 27.4 |     |           |                   |                  |
+| AdaBoost    |    |    |     |    |      | 65739.4    |     | 37.4 |     |           |                   |                  |
+| Bagging     |    |    |     |    |      | 158864.3   |     | 36.6 |     |           |                   |                  |
+| RF          |    |    |     |    |      | 29751.2    |     | 27.9 |     |           |                   |                  |
+| SVR         |    |    |     |    |      | 17898.6    |     | 30.3 |     |           |                   |                  |
+| GBR         |    |    |     |    |      | 22943.8    |     | 28.2 |     |           |                   |                  |
+| KNN         |    |    |     |    |      | 31063.8    |     | 28.5 |     |           |                   |                  |
 | MLP         |    |    |     |    |      |            |     |      |     |           |                   |                  |
 | GRU         |    |    |     |    |      |            |     |      |     |           |                   |                  |
 | CNN2D       |    |    |     |    |      |            |     |      |     |           |                   |                  |
