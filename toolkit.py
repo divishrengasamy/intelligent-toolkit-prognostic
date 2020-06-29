@@ -215,8 +215,12 @@ def create_benchmark(X=None, y=None, new_model_list=None, new_model_name_list=No
     for i in range(idx.shape[0]):
         all_scores.append([])
         for j in range(col_names.shape[0]):
-            all_scores[i].append(combine_mean_std_np(np.abs(model_scores[i][test_scores[j]]).mean(),
+            if (test_scores[j] == 'test_r2'):
+                all_scores[i].append(combine_mean_std_np((model_scores[i][test_scores[j]]).mean(),
                                                     model_scores[i][test_scores[j]].std()))
+            else:
+                all_scores[i].append(combine_mean_std_np(np.abs(model_scores[i][test_scores[j]]).mean(),
+                                                        model_scores[i][test_scores[j]].std()))
 
     # Create dataframe with all result
     df_all_scores = pd.DataFrame(np.array(all_scores),
